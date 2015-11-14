@@ -68,21 +68,20 @@ Notice that there is a "Sign In" option.  You can enter whatever name you would 
 
 Use "Step 2: Preparation".  This option allows you to access a number of emulators, choose pre-configured OS, and load a disk image from your computer to the demo server, to run in the emulated environment.
 
-=======
 To start, click on "Modify images".
 ![modify an image](../imgs/bwfla-modify.png)
 
 =======
 This takes you to a list of emulators.  Choose the emulator you would like to use by clicking on it.
-![choose emulator](../imgs/bwfla-modify02)
+![choose emulator](../imgs/bwfla-modify02.png)
 
 =======
 This brings up the list of possible operating systems in the menu on the right.  
-![here's the OS menu](../imgs/bwfla-modify03)
+![here's the OS menu](../imgs/bwfla-modify03.png)
 
 =======
 Choose the operating system you would like to use by clicking on it.  Then click on the "Next" button.  
-![choose an OS](../imgs/bwfla-modify04)
+![choose an OS](../imgs/bwfla-modify04.png)
 
 =======
 This prompts you to choose the file you would like to upload to the bwfla server, to run in the emulator.  Click the "Choose" button to select the file from wherever it is located on your computer.
