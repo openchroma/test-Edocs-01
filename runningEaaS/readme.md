@@ -66,16 +66,34 @@ Notice that there is a "Sign In" option.  You can enter whatever name you would 
 =======
 ### 2. To upload a new iso file to the bwFLA demo server to access and perform an artwork in an emulated environment:
 
-Use "Step 2: Preparation".  Click on "Modify images".
+Use "Step 2: Preparation".  This option allows you to access a number of emulators, choose pre-configured OS, and load a disk image from your computer to the demo server, to run in the emulated environment.
+
+=======
+To start, click on "Modify images".
 ![modify an image](../imgs/bwfla-modify.png)
 
 =======
-This option allows you to access a number of emulators, choose pre-configured OS, and load a disk image from your computer to the demo server, to run in the emulated environment.
+This takes you to a list of emulators.  Choose the emulator you would like to use by clicking on it.
+![choose emulator](../imgs/bwfla-modify02)
 
-First select an emulator from menu on left.
+=======
+This brings up the list of possible operating systems in the menu on the right.  
+![here's the OS menu](../imgs/bwfla-modify03)
 
-This choice brings us the OS menu on the right
+=======
+Choose the operating system you would like to use by clicking on it.  Then click on the "Next" button.  
+![choose an OS](../imgs/bwfla-modify04)
+
+=======
+This prompts you to choose the file you would like to upload to the bwfla server, to run in the emulator.  Click the "Choose" button to select the file from wherever it is located on your computer.
+![choose your file](../imgs/choose-File.png)
+
+
+=======
+You will see a progress bar as the file uploads.
+![file upload progress](../imgs/inject-file-progress.png)
+
+
+=======
 
 You can also choose to load a derivate image that you or another user has saved.  These derivates are OSes that have media images or software included, to save time having to make repeated modifications.
-
-Press next, and the emulator loads, presenting you with the computer desktop.  
