@@ -26,11 +26,11 @@ Then you'll see the emulator start up inside the browser window.
 ![emulator starts up](../imgs/started-upEmulatorOS9.png)
 
 You will see the Puppet Motel CD loaded in the upper right-hand corner of the screen.  
-![open Puppet Motel folder](../imgs/puppetAccess-obj.png.png)  
+![open Puppet Motel folder](../imgs/puppetAccess-obj.png)  
 
 In this saved environment, the Puppet Motel CD has already been opened for you, and the Puppet Motel folder has been copied to the Desktop.  That is the folder you will need to open to access the artwork.  
 Double-click on the Puppet Motel Folder to open it.
-![open Puppet Motel folder](../imgs/puppetAccess-obj.png.png)  
+![open Puppet Motel folder](../imgs/puppetAccess-obj.png)  
 
 It will look like this.  
 ![inside the Puppet Motel folder](../imgs/puppetFolder-open.png)  
