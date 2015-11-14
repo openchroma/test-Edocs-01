@@ -1,19 +1,21 @@
 ##The bwFLA demo server provides access to cloud-based emulation: http://demo.bw-fla.uni-freiburg.de/
 
-The emulation as a service framework provides a number of options for accessing media in different emulation environments. 
+The emulation as a service framework provides a number of options for accessing media in different emulation environments.
 
 In this workshop, we will use two methods:
 
-  1. access and perform artworks via iso files already stored on the bwFLA demo server. 
+  1. access and perform artworks via iso files already stored on the bwFLA demo server.
   2. upload a new iso file to the bwFLA demo server to access and perform an artwork in an emulated environment.  
 
-### 1. To access and perform artworks via iso files already on the bwFLA demo server: 
+### 1. To access and perform artworks via iso files already on the bwFLA demo server:
 
 Use "Step 4: Access objects" to choose an iso from a selection of media images available on the bwFLA server.  Click on "Access."
 ![access objects](../imgs/bwfla-access.png)   
 
+
+
 You will see a window that looks like this, presenting a selection of objects already loaded to the bwFLA server and saved within an appropriate emulation environment.  
-Click on the object you would like to access. 
+Click on the object you would like to access.
 ![choose an object](../imgs/accessMenu.png)   
 
 You'll see a progress bar as the emulator starts to load.  
@@ -42,17 +44,17 @@ Puppet Motel will open to the title screen, which looks like this.
 Notice that there is a "Sign In" option.  You can enter whatever name you would like to use for this game, or click the glowing purple dot to be "Anonymous."
 ![inside the Puppet Motel folder](../imgs/puppetEmulated.png)  
 
-### 2. To upload a new iso file to the bwFLA demo server to access and perform an artwork in an emulated environment: 
+### 2. To upload a new iso file to the bwFLA demo server to access and perform an artwork in an emulated environment:
 
-Use "Step 2: Preparation".  Click on "Modify images". 
+Use "Step 2: Preparation".  Click on "Modify images".
 ![modify an image](../imgs/bwfla-modify.png)
 
-This option allows you to access a number of emulators, choose pre-configured OS, and load a disk image from your computer to the demo server, to run in the emulated environment. 
+This option allows you to access a number of emulators, choose pre-configured OS, and load a disk image from your computer to the demo server, to run in the emulated environment.
 
-First select an emulator from menu on left. 
+First select an emulator from menu on left.
 
 This choice brings us the OS menu on the right
 
-You can also choose to load a derivate image that you or another user has saved.  These derivates are OSes that have media images or software included, to save time having to make repeated modifications. 
+You can also choose to load a derivate image that you or another user has saved.  These derivates are OSes that have media images or software included, to save time having to make repeated modifications.
 
 Press next, and the emulator loads, presenting you with the computer desktop.  
