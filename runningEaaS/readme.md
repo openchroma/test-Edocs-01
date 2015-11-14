@@ -94,5 +94,19 @@ You will see a progress bar as the file uploads.
 
 
 =======
+Then you'll see the file listed.  Click "Next" to proceed.
+![Click Next to continue](../imgs/file-uploaded.png)
+
+
+=======
+It may take .  Click "Next" to proceed.
+![Click Next to continue](../imgs/file-uploaded.png)
+
+
+=======
+Then you'll see the emulator start up inside the browser window.  If you have chosen an OS that displays a desktop environment, such as Mac OS7 or 9, you'll see the CD you have uploaded on the desktop.  
+![emulator starts up](../imgs/started-upEmulatorOS9.png)
+
+
 
 You can also choose to load a derivate image that you or another user has saved.  These derivates are OSes that have media images or software included, to save time having to make repeated modifications.
