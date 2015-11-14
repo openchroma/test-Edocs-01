@@ -31,22 +31,22 @@ Then you'll see the emulator start up inside the browser window.
 
 
 You can see the Puppet Motel CD loaded in the upper right-hand corner of the screen.  
-![open Puppet Motel folder](../imgs/puppetAccess-obj.png)
+![open Puppet Motel folder](../imgs/puppetAccess-obj-highlight.png)
 
 
 
 In this saved environment, the Puppet Motel CD has already been opened for you, and the Puppet Motel folder has been copied to the Desktop.  That is the folder you will need to open to access the artwork.  
 Double-click on the Puppet Motel Folder to open it.
-![open Puppet Motel folder](../imgs/puppetAccess-obj.png)
+![open Puppet Motel folder](../imgs/puppetAccess-obj-foldHighlight.png)
 
 
 
-It will look like this.  
+It will look like this. You will need to scroll up inside this window to access the Puppet Motel program.
 ![inside the Puppet Motel folder](../imgs/puppetFolder-open.png)
 
 
 
-Scroll up inside this window to access the Puppet Motel program.
+
 Which you will see here.  You can recognize it by the electrical-outlet icon.  
 Double-click on the Puppet Motel icon to start the artwork playing.  
 ![the Puppet Motel icon](../imgs/puppetFolder-scrolledTop.png)
