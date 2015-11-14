@@ -10,22 +10,20 @@ In this workshop, we will use two methods:
 ### 1. To access and perform artworks via iso files already on the bwFLA demo server: 
 
 Use "Step 4: Access objects" to choose an iso from a selection of media images available on the bwFLA server.  Click on "Access."
-![access objects](../imgs/bwfla-access.png)
+![access objects](../imgs/bwfla-access.png)   
 
 You will see a window that looks like this, presenting a selection of objects already loaded to the bwFLA server and saved within an appropriate emulation environment.  
 Click on the object you would like to access. 
-![choose an object](../imgs/accessMenu.png)
-
-
+![choose an object](../imgs/accessMenu.png)   
 
 You'll see a progress bar as the emulator starts to load.  
-![object loads](../imgs/accessMenuStartup.png)  
+![object loads](../imgs/accessMenuStartup.png)   
 
 
 Then you'll see the emulator start up inside the browser window.
 ![emulator starts up](../imgs/started-upEmulatorOS9.png)
 
-You will see the Puppet Motel CD loaded in the upper right-hand corner of the screen.  
+You can see the Puppet Motel CD loaded in the upper right-hand corner of the screen.  
 ![open Puppet Motel folder](../imgs/puppetAccess-obj.png)  
 
 In this saved environment, the Puppet Motel CD has already been opened for you, and the Puppet Motel folder has been copied to the Desktop.  That is the folder you will need to open to access the artwork.  
