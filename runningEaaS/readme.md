@@ -8,11 +8,19 @@ In this workshop, we will use two methods:
   2. upload a new iso file to the bwFLA demo server to access and perform an artwork in an emulated environment.  
 
 ### 1. To access and perform artworks via iso files already on the bwFLA demo server:
+<<<<<<< HEAD
 
 Use "Step 4: Access objects" to choose an iso from a selection of media images available on the bwFLA server.  Click on "Access."
 ![access objects](../imgs/bwfla-access.png)
 
 
+=======
+
+Use "Step 4: Access objects" to choose an iso from a selection of media images available on the bwFLA server.  Click on "Access." 
+![access objects](../imgs/bwfla-access.png)
+
+
+>>>>>>> cdd0dc11c27b0228d285b57400e8bf286af420c0
 
 You will see a window that looks like this, presenting a selection of objects already loaded to the bwFLA server and saved within an appropriate emulation environment.  
 Click on the object you would like to access.
@@ -41,9 +49,16 @@ Double-click on the Puppet Motel Folder to open it.
 
 
 
+<<<<<<< HEAD
 Inside the folder will look like this.  You need to scroll up inside this window to access the Puppet Motel program.
 ![inside the Puppet Motel folder](../imgs/puppetFolder-open.png)
 
+=======
+It will look like this. You will need to scroll up inside this window to access the Puppet Motel program.
+![inside the Puppet Motel folder](../imgs/puppetFolder-open.png)
+
+
+>>>>>>> cdd0dc11c27b0228d285b57400e8bf286af420c0
 
 
 Which you will see here.  You can recognize it by the electrical-outlet icon.  
