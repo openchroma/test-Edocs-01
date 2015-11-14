@@ -8,76 +8,68 @@ In this workshop, we will use two methods:
   2. upload a new iso file to the bwFLA demo server to access and perform an artwork in an emulated environment.  
 
 ### 1. To access and perform artworks via iso files already on the bwFLA demo server:
-<<<<<<< HEAD
+
 
 Use "Step 4: Access objects" to choose an iso from a selection of media images available on the bwFLA server.  Click on "Access."
 ![access objects](../imgs/bwfla-access.png)
 
 
 =======
-
-Use "Step 4: Access objects" to choose an iso from a selection of media images available on the bwFLA server.  Click on "Access." 
-![access objects](../imgs/bwfla-access.png)
-
-
->>>>>>> cdd0dc11c27b0228d285b57400e8bf286af420c0
-
 You will see a window that looks like this, presenting a selection of objects already loaded to the bwFLA server and saved within an appropriate emulation environment.  
 Click on the object you would like to access.
 ![choose an object](../imgs/accessMenu.png)
 
 
 
+=======
 You'll see a progress bar as the emulator starts to load.  
 ![object loads](../imgs/accessMenuStartup.png)
 
 
 
+=======
 Then you'll see the emulator start up inside the browser window.
 ![emulator starts up](../imgs/started-upEmulatorOS9.png)
 
 
 
+=======
 You can see the Puppet Motel CD loaded in the upper right-hand corner of the screen.  
 ![open Puppet Motel folder](../imgs/puppetAccess-obj-highlight.png)
 
 
 
+=======
 In this saved environment, the Puppet Motel CD has already been opened for you, and the Puppet Motel folder has been copied to the Desktop.  That is the folder you will need to open to access the artwork.  
 Double-click on the Puppet Motel Folder to open it.
 ![open Puppet Motel folder](../imgs/puppetAccess-obj-foldHighlight.png)
 
 
 
-<<<<<<< HEAD
+=======
 Inside the folder will look like this.  You need to scroll up inside this window to access the Puppet Motel program.
 ![inside the Puppet Motel folder](../imgs/puppetFolder-open.png)
 
+
 =======
-It will look like this. You will need to scroll up inside this window to access the Puppet Motel program.
-![inside the Puppet Motel folder](../imgs/puppetFolder-open.png)
-
-
->>>>>>> cdd0dc11c27b0228d285b57400e8bf286af420c0
-
-
 Which you will see here.  You can recognize it by the electrical-outlet icon.  
 Double-click on the Puppet Motel icon to start the artwork playing.  
 ![the Puppet Motel icon](../imgs/puppetFolder-scrolledTop.png)
 
 
-
+=======
 Puppet Motel will open to the title screen, which looks like this.  
 Notice that there is a "Sign In" option.  You can enter whatever name you would like to use for this game, or click the glowing purple dot to be "Anonymous."
 ![inside the Puppet Motel folder](../imgs/puppetEmulated.png)
 
 
-
+=======
 ### 2. To upload a new iso file to the bwFLA demo server to access and perform an artwork in an emulated environment:
 
 Use "Step 2: Preparation".  Click on "Modify images".
 ![modify an image](../imgs/bwfla-modify.png)
 
+=======
 This option allows you to access a number of emulators, choose pre-configured OS, and load a disk image from your computer to the demo server, to run in the emulated environment.
 
 First select an emulator from menu on left.
