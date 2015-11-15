@@ -101,7 +101,7 @@ Then you'll see the file listed.  Click "Next" to proceed.
 =======
 It may take a moment for the emulator to load, during which time you'll see a mostly-empty window like this.  
 Don't panic, the emulator is loading.
-![Click Next to continue](../imgs/file-uploaded.png)
+![Click Next to continue](../imgs/slowStart.png)
 
 
 =======
