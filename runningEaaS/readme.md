@@ -29,7 +29,7 @@ You'll see a progress bar as the emulator starts to load.
 
 =======
 Then you'll see the emulator start up inside the browser window.
-![emulator starts up](../imgs/started-upEmulatorOS9.png)
+![emulator starts up](../imgs/puppetAccess-obj.png)
 
 
 
@@ -99,13 +99,14 @@ Then you'll see the file listed.  Click "Next" to proceed.
 
 
 =======
-It may take .  Click "Next" to proceed.
+It may take a moment for the emulator to load, during which time you'll see a mostly-empty window like this.  
+Don't panic, the emulator is loading.
 ![Click Next to continue](../imgs/file-uploaded.png)
 
 
 =======
-Then you'll see the emulator start up inside the browser window.  If you have chosen an OS that displays a desktop environment, such as Mac OS7 or 9, you'll see the CD you have uploaded on the desktop.  
-![emulator starts up](../imgs/started-upEmulatorOS9.png)
+Then you'll see the emulator start up inside the browser window.  If you have chosen an OS that displays a desktop environment, such as Mac OS7, 8, or 9, you'll see the CD you have uploaded on the desktop.  In this case, I have uploaded Puppet Motel, and can see the Puppet Motel CD on the desktop.  
+![emulator starts up](../imgs/puppetAccess-obj.png)
 
 
 
